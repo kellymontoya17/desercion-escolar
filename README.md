@@ -4,6 +4,6 @@
 
 ### *Metodología*
 
-1. Definición del problema en términos de la Secretaría de Educación de Medellín
-2. Definición del problema en términos de analítica de datos
+1. Definición del problema de Deserción Escolar en términos de la Secretaría de Educación de Medellín
+2. Definición del problema de Deserción Escolar en términos de analítica de datos
 3. Tipos de datos disponibles
