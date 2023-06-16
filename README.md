@@ -13,3 +13,4 @@ En este proyecto encontrará los archivos que contienen la siguiente informació
 - [ ] Evaluación del modelo estadístico
 - [ ] Pronóstico
 - [ ] Conclusiones
+- No hice nada
